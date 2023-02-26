@@ -7,7 +7,7 @@ import '../view_models/api_services.dart';
 import '../model/result.dart';
 
 class QuizPage extends StatefulWidget {
-  QuizPage({
+  const QuizPage({
     Key? key,
   }) : super(key: key);
 
